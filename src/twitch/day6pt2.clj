@@ -1,5 +1,4 @@
-(ns twitch.day6pt2
-  (:require [clojure.string :as str]))
+(ns twitch.day6pt2)
 
 (def input-file "resources/input6")
 
