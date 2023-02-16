@@ -81,3 +81,5 @@
 
 (max-scenic-score input-file)
 ;; => 595080
+
+;; good night :)
